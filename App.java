@@ -14,7 +14,7 @@ import org.eclipse.jgit.transport.UsernamePasswordCredentialsProvider;
 
 public class App {
  
-	  private static final String REMOTE_URL = "https://github.com/";
+	  private static final String REMOTE_URL = "https://github.com/ilovejava-amit/test";
 		 
 		 public static void main(String[] args)throws IOException, InvalidRemoteException, TransportException, GitAPIException
 		 {
